@@ -1,12 +1,12 @@
-### Hi there, Felipe here! 👋🏽
+### Olá, pessoa aleatória! 👋🏽
 
-- 🔭 I’m currently working on projects using NextJS, NestJS, Typescript and Tailwind CSS
-- 👨🏽‍🏫 Instructor of some random kids in systems development course
-- ⚡ Fun fact: Tatakae!!
+- 🔭 Atualmente desenvolvo projetos utilizando NestJS no back-end e NextJS no front-end. Ambos com Typescript.
+- 👨🏽‍🏫 Também atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos.
+- ⚡ Fun fact: Vai, Corinthians 🖤🤍🖤!!
 
 <hr/>
 <div align=center>
-<h3> Languages and Tools </h3>
+<h3> Linguagens e Ferramentas </h3>
 </div>
 
 <div style="display: inline_block; background-color: #34344E" align="center"><br>
