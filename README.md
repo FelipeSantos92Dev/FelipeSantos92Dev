@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente desenvolvo projetos utilizando NestJS no back-end e NextJS no front-end. Ambos com Typescript.
 - 👨🏽‍🏫 Também atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos.
-- ⚡ Fun fact: Vai, Corinthians 🖤🤍🖤!!
+- ⚡ Fun fact: Vai, Papão 💙🤍💙!!
 
 <hr/>
 <div align=center>
