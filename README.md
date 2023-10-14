@@ -1,12 +1,18 @@
-### Olá, pessoa aleatória! 👋🏽
+# Olá, pessoa aleatória! 👋🏽
 
-- 🔭 Atualmente desenvolvo projetos utilizando NestJS no back-end e NextJS no front-end. Ambos com Typescript.
-- 👨🏽‍🏫 Também atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos.
-- ⚡ Fun fact: Vai, Papão 💙🤍💙!!
+Meu nome é Felipe Santos, sou um desenvolvedor full-stack apaixonado por tecnologia e código limpo. Atualmente, estou focado em projetos que utilizam as seguintes tecnologias:
 
-<hr/>
-<div align=center>
-<h3> Linguagens e Ferramentas </h3>
+- 🔭 No back-end, sou especializado no NestJS e trabalho principalmente com Node.js e Typescript.
+- 💻 No front-end, tenho experiência com a biblioteca React e o framework Next.js, garantindo uma experiência de usuário rápida e responsiva.
+- 👨🏽‍🏫 Além de desenvolver, atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos, onde compartilho meu conhecimento com a próxima geração de desenvolvedores.
+
+## Sobre mim
+
+- 🌱 Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado no mundo da programação.
+- ⚡ Fun fact: Sou um grande torcedor do gigante do norte Paysandu 💙🤍💙
+
+## Linguagens e Ferramentas
+
 </div>
 
 <div style="display: inline_block; background-color: #34344E" align="center"><br>
@@ -27,8 +33,16 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" style="margin-right: 2em" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=7&theme=great-gatsby"/><br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=great-gatsby&hide_border=false"/>
+  ## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
+
+## Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=great-gatsby)
+
+## Streak de Contribuições
+
+![Streak de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=great-gatsby)
 
 </div>
