@@ -35,8 +35,6 @@ Meu nome é Felipe Santos, sou um desenvolvedor full-stack apaixonado por tecnol
   
   ## Estatísticas do GitHub
 
-![Visitas](https://komarev.com/ghpvc/?username=FelipeSantos92Dev&color=blue&style=flat-square&label=Visitas)
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
 
 ## Linguagens Mais Utilizadas
