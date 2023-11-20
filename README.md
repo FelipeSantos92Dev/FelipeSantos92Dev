@@ -1,6 +1,6 @@
 # Olá, pessoa aleatória! 👋🏽
 
-Meu nome é Felipe Santos, sou um desenvolvedor full-stack apaixonado por tecnologia e código limpo. Atualmente, estou focado em projetos que utilizam as seguintes tecnologias:
+Sou Felipe Santos, um desenvolvedor full-stack entusiasmado por tecnologia e dedicado a criar código limpo e eficiente. Atualmente, estou focado em projetos que utilizam as seguintes tecnologias:
 
 - 🔭 No back-end, sou especializado no NestJS e trabalho principalmente com Node.js e Typescript.
 - 💻 No front-end, tenho experiência com a biblioteca React e o framework Next.js, garantindo uma experiência de usuário rápida e responsiva.
