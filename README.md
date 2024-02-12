@@ -2,7 +2,7 @@
 
 Sou Felipe Santos, um desenvolvedor full-stack entusiasmado por tecnologia e dedicado a criar código limpo e eficiente. Atualmente, estou focado em projetos que utilizam as seguintes tecnologias:
 
-- 🔭 No back-end, sou especializado no NestJS e trabalho principalmente com Node.js e Typescript.
+- 🔭 No back-end, sou especializado em NestJS e trabalho principalmente com Node.js e Typescript.
 - 💻 No front-end, tenho experiência com a biblioteca React e o framework Next.js, garantindo uma experiência de usuário rápida e responsiva.
 - 👨🏽‍🏫 Além de desenvolver, atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos, onde compartilho meu conhecimento com a próxima geração de desenvolvedores.
 
