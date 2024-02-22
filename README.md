@@ -9,7 +9,7 @@ Sou Felipe Santos, um desenvolvedor full-stack entusiasmado por tecnologia e ded
 ## Sobre mim
 
 - 🌱 Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado no mundo da programação.
-- ⚡ Fun fact: Sou um grande torcedor do gigante do norte Paysandu 💙🤍💙
+- ⚡ Fun fact: Sou um grande torcedor do gigante do norte Paysandu 💙🤍💙 👉🤪👈
 
 ## Linguagens e Ferramentas
 
