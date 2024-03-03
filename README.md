@@ -1,15 +1,45 @@
-# Olá, pessoa aleatória! 👋🏽
+# Olá, visitante! 👋🏽
 
-Sou Felipe Santos, um desenvolvedor full-stack entusiasmado por tecnologia e dedicado a criar código limpo e eficiente. Atualmente, estou focado em projetos que utilizam as seguintes tecnologias:
+Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever código limpo e eficaz. A programação não é apenas minha profissão; é uma paixão que permeia vários aspectos da minha vida. Mesmo após um dia inteiro dedicado a ensinar jovens talentos sobre o incrível universo da programação no SENAI - Valinhos, encontro energia e inspiração para me dedicar a projetos pessoais em casa, onde me aventuro em desafios que demandam minha criatividade e habilidade.
 
-- 🔭 No back-end, sou especializado em NestJS e trabalho principalmente com Node.js e Typescript.
-- 💻 No front-end, tenho experiência com a biblioteca React e o framework Next.js, garantindo uma experiência de usuário rápida e responsiva.
-- 👨🏽‍🏫 Além de desenvolver, atuo como instrutor no curso Técnico em Desenvolvimento de Sistemas no SENAI - Valinhos, onde compartilho meu conhecimento com a próxima geração de desenvolvedores.
+## Minha Jornada Técnica
 
-## Sobre mim
+- 🔭 Especialista em NestJS, mergulho no universo do Node.js e Typescript para criar soluções back-end sólidas.
+- 📲 No desenvolvimento front-end, domino React, React Native e Next.js, priorizando interações ágeis e envolventes, com um toque de elegância proporcionado pelo Tailwind CSS.
+- 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
+- 🛠 Minhas hard skills são moldadas pela trilha robusta do desenvolvimento em Typescript, fundamentando minha expertise técnica.
+- 🌀 Minhas soft skills, incluindo adaptabilidade, comunicação e trabalho em equipe, potencializam meu conhecimento técnico, favorecendo a criação de soluções inovadoras e o fortalecimento de relações colaborativas.
 
-- 🌱 Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado no mundo da programação.
-- ⚡ Fun fact: Sou um grande torcedor do gigante do norte Paysandu 💙🤍💙 👉🤪👈
+## Um Pouco Mais Sobre Mim
+
+- 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
+
+- 💙 Meu coração bate azul e branco pelo Paysandu, uma paixão que se reflete na energia e dedicação que coloco em cada linha de código.
+
+- 🌎 Comprometido com o meio ambiente, busco integrar práticas sustentáveis ao meu processo de desenvolvimento, visando minimizar o impacto ambiental da tecnologia.
+
+<details>
+  <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
+
+I'm Felipe Santos, a full-stack developer always striving to write clean and effective code. Programming is not just my profession; it's a passion that permeates various aspects of my life. Even after a full day dedicated to teaching young talents about the incredible world of programming at SENAI - Valinhos, I find the energy and inspiration to dedicate myself to personal projects at home, where I venture into challenges that demand my creativity and skill.
+
+## My Technical Journey
+
+- 🔭 Specializing in NestJS, I dive into the world of Node.js and Typescript to create solid back-end solutions.
+- 📲 In front-end development, I excel in React, React Native, and Next.js, prioritizing swift and engaging interactions, enhanced with a touch of elegance provided by Tailwind CSS.
+- 👨🏽‍🏫 A teacher by vocation, I share my passion for programming, influencing the new generation of developers.
+- 🛠 My hard skills are shaped by the robust path of Typescript development, grounding my technical expertise.
+- 🌀 My soft skills, including adaptability, communication, and teamwork, enhance my technical knowledge, favoring the creation of innovative solutions and the strengthening of collaborative relationships.
+
+## A Little More About Me
+
+- 🌿 Insatiably curious, I am always in search of new learnings to keep myself updated and relevant in the dynamic world of technology.
+
+- 💙 My heart beats blue and white for Paysandu, a passion reflected in the energy and dedication I put into every line of code.
+
+- 🌍 Committed to the environment, I seek to integrate sustainable practices into my development process, aiming to minimize the environmental impact of technology.
+
+</details>
 
 ## Linguagens e Ferramentas
 
