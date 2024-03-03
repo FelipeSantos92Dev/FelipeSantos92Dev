@@ -13,9 +13,7 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 ## Um Pouco Mais Sobre Mim
 
 - 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
-
 - 💙 Meu coração bate azul e branco pelo Paysandu, uma paixão que se reflete na energia e dedicação que coloco em cada linha de código.
-
 - 🌎 Comprometido com o meio ambiente, busco integrar práticas sustentáveis ao meu processo de desenvolvimento, visando minimizar o impacto ambiental da tecnologia.
 
 <details>
