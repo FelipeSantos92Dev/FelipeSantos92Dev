@@ -4,19 +4,46 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 
 ## Minha Jornada Técnica
 
-- 🔭 Especialista em NestJS, mergulho no universo do Node.js e Typescript para criar soluções back-end sólidas.
-- 📲 No desenvolvimento front-end, domino React, React Native e Next.js, priorizando interações ágeis e envolventes, com um toque de elegância proporcionado pelo Tailwind CSS.
-- 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
 - 🛠 Minhas hard skills são moldadas pela trilha robusta do desenvolvimento em Typescript, fundamentando minha expertise técnica.
-- 🌀 Minhas soft skills, incluindo adaptabilidade, comunicação e trabalho em equipe, potencializam meu conhecimento técnico, favorecendo a criação de soluções inovadoras e o fortalecimento de relações colaborativas.
+- 🌀 Minhas soft skills, incluindo adaptabilidade, comunicação, gestão e trabalho em equipe, potencializam meu conhecimento técnico, favorecendo a criação de soluções inovadoras e o fortalecimento de relações colaborativas.
+
+### Back-end
+
+- 🔭 Especialista em NestJS, mergulho no universo do Node.js e Typescript para criar soluções back-end sólidas.
+
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 0; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-right: 1px solid #000; border-bottom-right-radius: 5px" align="center">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
+</div>
+
+### Front-end
+
+- 📲 No desenvolvimento front-end, domino React, React Native e Next.js, priorizando interações ágeis e envolventes, com um toque de elegância proporcionado pelo Tailwind CSS.
+
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 0; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-right: 1px solid #000; border-bottom-right-radius: 5px" align="center">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+</div>
+</br>
 
 ## Um Pouco Mais Sobre Mim
 
+- 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
 - 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
+- 🌎 Comprometido com o meio ambiente, busco desenvolver projetos e integrar práticas que visam minimizar o impacto ambiental da tecnologia nas diversas frentes de inovação.
 - 💙 Fun Facts: Papão da Curuzu 💙 | Poderoso Timão | Targaryen | Corvinal | Attack On Titan | Demon Slayer
-- 🌎 Comprometido com o meio ambiente, busco integrar práticas sustentáveis ao meu processo de desenvolvimento, visando minimizar o impacto ambiental da tecnologia.
 
-<details>
+<!-- <details>
   <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
 
 I'm Felipe Santos, a full-stack developer always striving to write clean and effective code. Programming is not just my profession; it's a passion that permeates various aspects of my life. Even after a full day dedicated to teaching young talents about the incredible world of programming at SENAI - Valinhos, I find the energy and inspiration to dedicate myself to personal projects at home, where I venture into challenges that demand my creativity and skill.
@@ -37,30 +64,19 @@ I'm Felipe Santos, a full-stack developer always striving to write clean and eff
 
 - 🌍 Committed to the environment, I seek to integrate sustainable practices into my development process, aiming to minimize the environmental impact of technology.
 
-</details>
+</details> -->
 
-## Linguagens e Ferramentas
+## Tecnologias e Ferramentas
 
-<div style="display: inline_block; background-color: #303030; padding: 20px 0" align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="30" width="30" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/nextjs-icon-dark-background.png?itok=0YHs2vTR">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
-
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 10px 20px 10px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-right: 1px solid #000; border-bottom-right-radius: 5px" align="center">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
-
-<hr/>
 
 <div align="center">
 
