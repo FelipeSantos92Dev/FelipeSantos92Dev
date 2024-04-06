@@ -11,7 +11,7 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 
 - 🔭 Especialista em NestJS, mergulho no universo do Node.js e Typescript para criar soluções back-end sólidas.
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: linear-gradient(#36393C, #1F1F1F);" align="center">
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: #36393C;" align="center">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -26,7 +26,7 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 
 - 📲 No desenvolvimento front-end, domino React, React Native e Next.js, priorizando interações ágeis e envolventes, com um toque de elegância proporcionado pelo Tailwind CSS.
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: linear-gradient(#36393C, #1F1F1F);" align="center">
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: #36393C;" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -68,7 +68,7 @@ I'm Felipe Santos, a full-stack developer always striving to write clean and eff
 
 ## Tecnologias e Ferramentas
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: linear-gradient(#36393C, #1F1F1F);" align="center">
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-bottom: 1px solid #000; border-radius: 5px; background: #36393C;" align="center">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
