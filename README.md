@@ -43,28 +43,32 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 - 🌎 Comprometido com o meio ambiente, busco desenvolver projetos e integrar práticas que visam minimizar o impacto ambiental da tecnologia nas diversas frentes de inovação.
 - 😎 Fun Facts: Paysandu Bicolor 💙🤍💙 | Poderoso Timão 🖤🤍🖤 | Targaryen 🔥🐲 | Ravenclaw 🪄🦅 | Attack On Titan 🛡️🏇🏽🏰 | Demon Slayer 🗡🔥🧟
 
-<!-- <details>
+<details>
   <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
 
-I'm Felipe Santos, a full-stack developer always striving to write clean and effective code. Programming is not just my profession; it's a passion that permeates various aspects of my life. Even after a full day dedicated to teaching young talents about the incredible world of programming at SENAI - Valinhos, I find the energy and inspiration to dedicate myself to personal projects at home, where I venture into challenges that demand my creativity and skill.
+I am Felipe Santos, a full-stack developer constantly striving to write clean and efficient code. Programming is not just my profession; it's a passion that permeates various aspects of my life. Even after a full day dedicated to teaching young talents about the incredible world of programming at SENAI - Valinhos, I find energy and inspiration to devote myself to personal projects at home, where I venture into challenges that demand my creativity and skill.
 
 ## My Technical Journey
 
-- 🔭 Specializing in NestJS, I dive into the world of Node.js and Typescript to create solid back-end solutions.
-- 📲 In front-end development, I excel in React, React Native, and Next.js, prioritizing swift and engaging interactions, enhanced with a touch of elegance provided by Tailwind CSS.
-- 👨🏽‍🏫 A teacher by vocation, I share my passion for programming, influencing the new generation of developers.
-- 🛠 My hard skills are shaped by the robust path of Typescript development, grounding my technical expertise.
-- 🌀 My soft skills, including adaptability, communication, and teamwork, enhance my technical knowledge, favoring the creation of innovative solutions and the strengthening of collaborative relationships.
+- 🛠 My hard skills are shaped by the robust path of development in Typescript, grounding my technical expertise.
+- 🌀 My soft skills, including adaptability, communication, management, and teamwork, enhance my technical knowledge, favoring the creation of innovative solutions and the strengthening of collaborative relationships.
+
+### Back-end
+
+- 🔭 An expert in NestJS, I dive into the universe of Node.js and Typescript to create solid back-end solutions.
+
+### Front-end
+
+- 📲 In front-end development, I master React, React Native, and Next.js, prioritizing agile and engaging interactions, with a touch of elegance provided by Tailwind CSS.
 
 ## A Little More About Me
 
-- 🌿 Insatiably curious, I am always in search of new learnings to keep myself updated and relevant in the dynamic world of technology.
+- 👨🏽‍🏫 An instructor by vocation, I share my passion for programming, influencing the new generation of developers.
+- 💫 An insatiable curious, I am always in search of new learnings to stay updated and relevant in the dynamic world of technology.
+- 🌎 Committed to the environment, I seek to develop projects and integrate practices aimed at minimizing the environmental impact of technology in various innovation fronts.
+- 😎 Fun Facts: Paysandu Bicolor 💙🤍💙 | Mighty Timão 🖤🤍🖤 | Targaryen 🔥🐲 | Ravenclaw 🪄🦅 | Attack On Titan 🛡️🏇🏽🏰 | Demon Slayer 🗡🔥🧟
 
-- 💙 My heart beats blue and white for Paysandu, a passion reflected in the energy and dedication I put into every line of code.
-
-- 🌍 Committed to the environment, I seek to integrate sustainable practices into my development process, aiming to minimize the environmental impact of technology.
-
-</details> -->
+</details>
 
 ## Tecnologias e Ferramentas
 
