@@ -41,7 +41,7 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 - 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
 - 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
 - 🌎 Comprometido com o meio ambiente, busco desenvolver projetos e integrar práticas que visam minimizar o impacto ambiental da tecnologia nas diversas frentes de inovação.
-- 💙 Fun Facts: Papão da Curuzu 💙 | Poderoso Timão | Targaryen | Corvinal | Attack On Titan | Demon Slayer
+- 😎 Fun Facts: Paysandu Bicolor 💙🤍💙 | Poderoso Timão 🖤🤍🖤 | Targaryen 🔥🐲 | Ravenclaw 🪄🦅 | Attack On Titan 🛡️🏇🏽🏰 | Demon Slayer 🗡🔥🧟
 
 <!-- <details>
   <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
