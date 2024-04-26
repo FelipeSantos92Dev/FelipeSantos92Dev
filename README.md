@@ -41,7 +41,7 @@ Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever códi
 - 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
 - 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
 - 🌎 Comprometido com o meio ambiente, busco desenvolver projetos e integrar práticas que visam minimizar o impacto ambiental da tecnologia nas diversas frentes de inovação.
-- 😎 Fun Facts: Paysandu Bicolor 💙🤍💙 | Poderoso Timão 🖤🤍🖤 | Targaryen 🔥🐲 | Ravenclaw 🪄🦅 | Attack On Titan 🛡️🏇🏽🏰 | Demon Slayer 🗡🔥🧟
+- 😎 Fun Facts: R.I.P. Mon Ami 🃏💥
 
 <details>
   <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
@@ -66,7 +66,7 @@ I am Felipe Santos, a full-stack developer constantly striving to write clean an
 - 👨🏽‍🏫 An instructor by vocation, I share my passion for programming, influencing the new generation of developers.
 - 💫 An insatiable curious, I am always in search of new learnings to stay updated and relevant in the dynamic world of technology.
 - 🌎 Committed to the environment, I seek to develop projects and integrate practices aimed at minimizing the environmental impact of technology in various innovation fronts.
-- 😎 Fun Facts: Paysandu Bicolor 💙🤍💙 | Mighty Timão 🖤🤍🖤 | Targaryen 🔥🐲 | Ravenclaw 🪄🦅 | Attack On Titan 🛡️🏇🏽🏰 | Demon Slayer 🗡🔥🧟
+- 😎 Fun Facts: R.I.P. Mon Ami 🃏💥
 
 </details>
 
