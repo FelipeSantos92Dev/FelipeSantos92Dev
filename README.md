@@ -1,100 +1,119 @@
-# Olá, visitante! 👋🏽
+# Felipe Dev
 
-Sou Felipe Santos, um desenvolvedor full-stack sempre em busca de escrever código limpo e eficaz. A programação não é apenas minha profissão; é uma paixão que permeia vários aspectos da minha vida. Mesmo após um dia inteiro dedicado a ensinar jovens talentos sobre o incrível universo da programação no SENAI - Valinhos, encontro energia e inspiração para me dedicar a projetos pessoais em casa, onde me aventuro em desafios que demandam minha criatividade e habilidade.
+## Desenvolvedor Full-Stack | Instrutor
 
-## Minha Jornada Técnica
-
-- 🛠 Minhas hard skills são moldadas pela trilha robusta do desenvolvimento em Typescript, fundamentando minha expertise técnica.
-- 🌀 Minhas soft skills, incluindo adaptabilidade, comunicação, gestão e trabalho em equipe, potencializam meu conhecimento técnico, favorecendo a criação de soluções inovadoras e o fortalecimento de relações colaborativas.
-
-### Back-end
-
-- 🔭 Especialista em NestJS, mergulho no universo do Node.js e Typescript para criar soluções back-end sólidas.
-
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-radius: 5px; background-color: #36393C;" align="center">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="PHP" height="40" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Go" height="40" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">         
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
+<div align="center">
+<a href="https://linkedin.com/in/92felipesantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/FelipeSantos92Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-### Front-end
+## Sobre
 
-- 📲 No desenvolvimento front-end, domino React, React Native e Next.js, priorizando interações ágeis e envolventes, com um toque de elegância proporcionado pelo Tailwind CSS.
+Desenvolvedor full-stack e instrutor no SENAI Valinhos com experiência em desenvolvimento de aplicações web e mobile de alta performance. Especializado em arquitetura de software e implementação de soluções empresariais robustas. Comprometido com excelência técnica e transmissão de conhecimento para a próxima geração de desenvolvedores.
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-radius: 5px; background: #36393C;" align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+## Competências Técnicas
+
+### Backend
+
+<div>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
-</br>
 
-## Um Pouco Mais Sobre Mim
+- Desenvolvimento de APIs RESTful e GraphQL
+- Arquitetura de microsserviços e sistemas distribuídos
+- Implementação de autenticação e autorização seguras
+- Otimização de desempenho em aplicações de larga escala
+- Integração com serviços de terceiros e APIs externas
 
-- 👨🏽‍🏫 Instrutor por vocação, compartilho minha paixão pela programação, influenciando a nova geração de desenvolvedores.
-- 💫 Curioso incansável, estou sempre em busca de novos aprendizados para manter-me atualizado e relevante no dinâmico mundo da tecnologia.
-- 🌎 Comprometido com o meio ambiente, busco desenvolver projetos e integrar práticas que visam minimizar o impacto ambiental da tecnologia nas diversas frentes de inovação.
-- 😎 Fun Facts: R.I.P. Mon Ami 🃏💥
+### Frontend
 
-<details>
-  <summary><b>Hello, visitor!</b> 👋🏽🇬🇧</summary>
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
 
-I am Felipe Santos, a full-stack developer constantly striving to write clean and efficient code. Programming is not just my profession; it's a passion that permeates various aspects of my life. Even after a full day dedicated to teaching young talents about the incredible world of programming at SENAI - Valinhos, I find energy and inspiration to devote myself to personal projects at home, where I venture into challenges that demand my creativity and skill.
+- Desenvolvimento de interfaces responsivas e acessíveis
+- Implementação de aplicações com Server-Side Rendering (SSR)
+- Otimização de performance e experiência do usuário
+- Criação de componentes reutilizáveis e manuteníveis
+- Implementação de design systems e UI/UX consistentes
 
-## My Technical Journey
+### Mobile
 
-- 🛠 My hard skills are shaped by the robust path of development in Typescript, grounding my technical expertise.
-- 🌀 My soft skills, including adaptability, communication, management, and teamwork, enhance my technical knowledge, favoring the creation of innovative solutions and the strengthening of collaborative relationships.
+<div>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+</div>
 
-### Back-end
+- Desenvolvimento de aplicações móveis multiplataforma
+- Implementação de interfaces nativas de alta performance
+- Integração com recursos de hardware dos dispositivos
+- Otimização para diferentes tamanhos de tela e densidades de pixels
+- Publicação e manutenção de aplicativos nas lojas oficiais
 
-- 🔭 An expert in NestJS, I dive into the universe of Node.js and Typescript to create solid back-end solutions.
+### Bancos de Dados
 
-### Front-end
+<div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</div>
 
-- 📲 In front-end development, I master React, React Native, and Next.js, prioritizing agile and engaging interactions, with a touch of elegance provided by Tailwind CSS.
+- Modelagem de dados relacional e não-relacional
+- Implementação de queries otimizadas e índices eficientes
+- Garantia de integridade e consistência de dados
+- Design de esquemas escaláveis para diferentes necessidades
+- Gerenciamento de migrações e versionamento de banco de dados
 
-## A Little More About Me
+### DevOps & Ferramentas
 
-- 👨🏽‍🏫 An instructor by vocation, I share my passion for programming, influencing the new generation of developers.
-- 💫 An insatiable curious, I am always in search of new learnings to stay updated and relevant in the dynamic world of technology.
-- 🌎 Committed to the environment, I seek to develop projects and integrate practices aimed at minimizing the environmental impact of technology in various innovation fronts.
-- 😎 Fun Facts: R.I.P. Mon Ami 🃏💥
+<div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
 
-</details>
+- Implementação de CI/CD para entrega contínua
+- Containerização e orquestração de aplicações
+- Configuração e gerenciamento de infraestrutura
+- Testes automatizados (unitários, integração, e2e)
+- Monitoramento e log de aplicações em produção
 
-## Tecnologias e Ferramentas
+## Estatísticas GitHub
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px 20px; width: fit-content; margin: auto; border-radius: 5px; background-color: #36393C;" align="center">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Postman" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=react"/>
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=react"/>
+</div>
 
-## Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
+<div align="center">
+<strong>VAI CORINTHIANS! 🖤🤍🖤</strong>
+</div>
 
-## Linguagens Mais Utilizadas
+---
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=great-gatsby)
-
-## Streak de Contribuições
-
-![Streak de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=great-gatsby)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeSantos92Dev&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Visitas" />
 </div>
