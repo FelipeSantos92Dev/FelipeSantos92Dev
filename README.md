@@ -102,7 +102,7 @@ Desenvolvedor full-stack e instrutor no SENAI Valinhos com experiência em desen
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=react&cache_seconds=0"/>
 </div>
 
 <div align="center">
