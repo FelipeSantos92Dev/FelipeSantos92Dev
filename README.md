@@ -124,6 +124,14 @@ const felipe = {
 <strong>🖤 VAI CORINTHIANS! 🤍</strong>
 </div>
 
+## 🎵 Trilha Sonora do Reino
+
+<div align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile"/>
+</a>
+</div>
+
 ## 🤝 Convoque-me para seu Conselho
 
 <div align="center">
