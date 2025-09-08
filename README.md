@@ -1,176 +1,232 @@
-# 👋 Felipe Santos
-
-> **Engenheiro de Software & Instrutor de Tecnologia**  
-> Transformando ideias em soluções digitais robustas e inovadoras
->
-> _"Winter is coming, but I'm ready with TypeScript"_ ❄️
+# 🕸️ Felipe Santos - O Tecelão de Código
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+reino+tecnol%C3%B3gico!+%F0%9F%94%A5;Engenheiro+de+Software+%7C+Arquiteto+de+Solu%C3%A7%C3%B5es;Especialista+em+Automatiza%C3%A7%C3%A3o+%26+An%C3%A1lise+de+Dados;Instrutor+SENAI+%7C+Formador+de+Talentos;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%90%89" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </div>
 
-```typescript
-const felipe = {
-  cargo: "Engenheiro de Software & Instrutor SENAI",
-  foco: [
-    "Gerenciamento de Projetos",
-    "Sistemas Web & Mobile",
-    "Análise de Dados para Decisões",
-    "Mentoria e Liderança",
-  ],
-  coreStack: ["TypeScript", "Python"],
-  paixoes: ["Paysandu", "Corinthians", "Game of Thrones"],
-  filosofia: "O código fala mais alto que as palavras 🚀",
-  currentQuest: "Forjando soluções escaláveis e descobrindo talentos",
-};
+> **"Shaw! Adagale!"** - _Engenheiro de Software navegando pelos mistérios de Pharloom_
+>
+> 🧵 _Tecendo soluções digitais com a precisão de uma agulha e linha_
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=%F0%9F%95%B7%EF%B8%8F+Cavaleiro+da+Seda+e+do+C%C3%B3digo;%E2%9A%94%EF%B8%8F+Instrutor+SENAI+%7C+Mentor+dos+Bugs;%F0%9F%8C%90+Explorando+Pharloom+Digital;%F0%9F%94%A5+Transformando+Ideias+em+Realidade" alt="Dynamic Typing">
+</div>
+
+---
+
+## 🌙 Quem Sou Eu Nesta Jornada
+
+```javascript
+// No coração de Pharloom, um desenvolvedor emerge das sombras...
+class FelipeTheWeaver {
+  constructor() {
+    this.titulo = "Engenheiro de Software & Instrutor SENAI";
+    this.missao = "Tecer códigos que resistam ao teste do tempo";
+    this.armas = ["TypeScript", "Python", "React", "Node.js"];
+    this.coracao = ["Paysandu 💙🤍", "Corinthians 🖤🤍"];
+    this.inspiracao = "Hornet - Agilidade, Precisão, Determinação";
+    this.geo = 9999; // Experiência acumulada
+  }
+
+  habilidadesEspeciais() {
+    return [
+      "🎯 Arquitetura de Sistemas (Boss Battle Expertise)",
+      "🤖 Automação de Processos (Void Magic)",
+      "📊 Análise de Dados (Ancient Knowledge)",
+      "👥 Mentoria e Liderança (Guild Master)",
+      "🚀 Desenvolvimento Full-Stack (Multi-weapon Mastery)",
+    ];
+  }
+
+  filosofia() {
+    return "Todo bug é uma lição disfarçada. Shaw!";
+  }
+}
+
+const developer = new FelipeTheWeaver();
 ```
 
-## 💭 Pergaminhos de Sabedoria
+---
 
-> _"Falar é fácil. Mostre-me o código."_ — **Linus Torvalds, Mestre dos Sussurros do Kernel**
->
-> _"Uma mente precisa de livros como uma espada precisa de uma pedra de amolar."_ — **Tyrion Lannister, A Mão do Reino**
-
-## 🛠️ O Arsenal do Dragão
+## ⚔️ Arsenal de Combate (Tech Stack)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-**🎯 Domínio Backend (A Forja do Reino)**
-
-<div>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-</div>
-
-<hr>
-
-**🎨 Excelência Frontend (Os Estandartes do Reino)**
-
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-<hr>
-
-**📱 Mobile & Multiplataforma (Os Emissários do Reino)**
-
-<div>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-</div>
-
-<hr>
-
-**🗄️ Dados & Infraestrutura (As Muralhas e Cofres)**
-
-<div>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</div>
-
-<hr>
+### 🕸️ **Teias Frontend** - _A Arte da Interface_
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 </div>
 
-## 📜 Minhas Conquistas no Conselho
+_Construindo interfaces que dançam como Hornet em combate - fluidas, responsivas e mortalmente eficazes._
+
+---
+
+### 🏰 **Fortalezas Backend** - _O Núcleo do Reino_
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php,laravel,go&theme=dark" />
 </div>
 
-- 🏰 **Arquiteto de Reinos Digitais**: Com a visão de um Targaryen, projeto e construo sistemas Web e Mobile que não apenas funcionam, mas reinam com soberania e escalabilidade.
+_Sistemas robustos como as estruturas antigas de Pharloom, projetados para durar eternamente._
 
-- 🤖 **Forjador de Autômatos**: Concedo o "sopro do dragão" a processos manuais, transformando-os em fluxos de trabalho automatizados e inteligentes que servem ao reino com eficiência implacável.
+---
 
-- 📈 **Mestre Estrategista de Dados**: Como um príncipe de Dorne, analiso o campo de batalha dos dados. Transformo informações brutas em inteligência de mercado, guiando a tomada de decisões com a sabedoria de Lançassolar.
-
-- 🎓 **Mestre de Armas (Instrutor SENAI)**: Na Cidadela do Conhecimento, afio as habilidades de jovens guerreiros. Como mentor, forjo talentos e os preparo para as grandes guerras e competições do universo da tecnologia.
-
-- 🐲 **Descobridor de Jovens Dragões**: Tenho um olhar aguçado para identificar e nutrir potenciais, transformando aprendizes em lendas do desenvolvimento.
-
-- ⚔️ **Lorde Comandante de Projetos**: Lidero expedições em territórios desconhecidos do código, inspirando minhas equipes a permanecerem "insubmissas, não curvadas, não quebradas" diante dos desafios mais complexos.
-
-## ⚔️ Curiosidades do Reino
-
-- 🐉 **TypeScript é meu Balerion**, o Dread Negro: massivo, poderoso e impõe respeito.
-- 🐍 **Meu código é como uma lança dornesa**: preciso, eficiente e sempre atinge o alvo.
-- 🏰 **Mais organizado que a biblioteca da Cidadela**, cada função e variável em seu devido lugar.
-- ☕ **Café é meu Fogo-Vivo**, o combustível secreto para longas noites de cerco ao código.
-- 👑 **Lealdade:** Fiel às casas **Targaryen** e **Martell**, tanto na ficção quanto na filosofia: visão audaciosa com execução estratégica.
-
-## 🏆 Minhas Casas do Coração
+### 📱 **Portais Móveis** - _Conexões Interdimensionais_
 
 <div align="center">
-<strong>🦅 PAYSANDU ETERNO AMOR! 🤍💙</strong>
-<br>
-<strong>🖤 VAI CORINTHIANS! 🤍</strong>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift&theme=dark" />
 </div>
 
-## 🎵 Trilha Sonora do Reino
+_Criando pontes entre mundos, conectando usuários através de todas as plataformas._
+
+---
+
+### 🗄️ **Santuários de Dados** - _Guardiões da Informação_
 
 <div align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,docker,kubernetes,linux&theme=dark" />
 </div>
 
-## 🤝 Convoque-me para seu Conselho
+_Protegendo e organizando dados como os antigos guardiões protegiam os segredos de Hallownest._
+
+---
+
+## 🎯 Conquistas no Reino Digital
 
 <div align="center">
-<a href="https://linkedin.com/in/92felipesantos/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/FelipeSantos92Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:dev.felipesantos@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250">
+</div>
+
+### 🏆 **Marcos da Jornada**
+
+| 🎖️ Conquista                | 📜 Descrição                                                 | ⭐ Status       |
+| --------------------------- | ------------------------------------------------------------ | --------------- |
+| **🏗️ Mestre Arquiteto**     | Sistemas web e mobile que escalam como as torres de Pharloom | ✅ Dominado     |
+| **🤖 Automatizador**        | Transformando processos manuais em magia pura                | ✅ Especialista |
+| **📈 Analista Estratégico** | Revelando insights ocultos nos dados                         | ✅ Visionário   |
+| **🎓 Mentor dos Códigos**   | Instrutor SENAI - Formando a próxima geração                 | ✅ Lendário     |
+| **👑 Líder de Expedições**  | Guiando equipes através de projetos complexos                | ✅ Épico        |
+
+---
+
+## 🗺️ Mapa da Experiência
+
+<div align="center">
+
+```
+                    🕷️ JORNADA DE FELIPE 🕷️
+
+    📚 SENAI          ⚔️ PROJETOS         🎯 ESPECIALIZAÇÃO
+   Instructor      ┌─── Web Systems ───┐    TypeScript
+      │            │                   │    Python
+      │            │   🏰 Backend      │    React
+      │            │   🎨 Frontend     │    Node.js
+      │            │   📱 Mobile       │    Automation
+      │            │   🔧 DevOps       │    Data Analysis
+      └────────────┴───────────────────┴─── Leadership
+                            │
+                    🏆 CONQUISTAS ATUAIS
+```
+
+</div>
+
+---
+
+## 🎮 Stats do Jogador
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0F23&title_color=FF69B4&icon_color=9D4EDD&text_color=E0E6ED&ring_color=FF69B4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=7&theme=material-palenight&hide_border=true&bg_color=0F0F23&title_color=FF69B4&text_color=E0E6ED"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=material-palenight&hide_border=true&background=0F0F23&ring=FF69B4&fire=9D4EDD&currStreakNum=E0E6ED&sideNums=E0E6ED&sideLabels=E0E6ED&dates=E0E6ED">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSantos92Dev&theme=material-palenight&hide_border=true&area=true&bg_color=0F0F23&color=E0E6ED&line=FF69B4&point=9D4EDD" width="100%">
+</div>
+
+---
+
+## 💭 Fragmentos de Sabedoria
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+</div>
+
+> _"Assim como Hornet domina sua agulha e linha, eu domino TypeScript e Python. Cada linha de código é uma teia tecida com propósito."_
+
+> _"Em Pharloom, até os bugs mais complexos podem ser transformados em features. Shaw!"_
+
+> _"Um verdadeiro desenvolvedor não apenas escreve código - ele tece soluções que conectam mundos."_
+
+---
+
+## 🏟️ Lealdades do Coração
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PAYSANDU-💙🤍-blue?style=for-the-badge&labelColor=001f3f&color=87CEEB" alt="Paysandu"/>
+        <br>
+        <sub><b>🦅 ETERNO AMOR BICOLOR</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CORINTHIANS-🖤🤍-black?style=for-the-badge&labelColor=000000&color=FFFFFF" alt="Corinthians"/>
+        <br>
+        <sub><b>⚫ VAI CORINTHIANS!</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎵 Trilha Sonora da Aventura
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=0F0F23&interchange=false" alt="Hornet's Playlist"/>
+  </a>
+</div>
+
+---
+
+## 🤝 Portais de Comunicação
+
+<div align="center">
+  <a href="https://linkedin.com/in/92felipesantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte_se_ao_Tecelão-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/FelipeSantos92Dev">
+    <img src="https://img.shields.io/badge/GitHub-Explore_o_Código-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br><br>
+  <a href="mailto:dev.felipesantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Envie_uma_Mensagem-FF1744?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 🏮 Contador de Visitantes de Pharloom
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeSantos92Dev&color=ff69b4&style=for-the-badge&label=EXPLORADORES+DE+PHARLOOM" alt="Exploradores de Pharloom" />
 </div>
 
 ---
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=E0234E&icon_color=00D9FF&text_color=c9d1d9&ring_color=E0234E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=E0234E&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=E0234E&fire=E0234E&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9">
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSantos92Dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=c9d1d9&line=E0234E&point=00D9FF" width="100%">
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FelipeSantos92Dev&color=e0234e&style=flat-square&label=VISITANTES+DO+REINO" alt="Visitantes do Reino" />
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
-<div align="center">
-<sub>Forjado com Fogo & Código • Sempre aprendendo, sempre conquistando.</sub>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+  
+  **🕸️ Tecido com Seda Digital & Determinação de Cavaleiro 🕸️**
+  
+  *"Shaw! Adino!"* - *A jornada continua...*
 </div>
