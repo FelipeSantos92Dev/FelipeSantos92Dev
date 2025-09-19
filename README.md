@@ -62,12 +62,16 @@ const felipeDev = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=e6edf3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos92Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos92Dev&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantos92Dev&theme=algolia&hide_border=true&background=45,000428,004e92&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSantos92Dev&bg_color=000428&color=00d4ff&line=0099ff&point=00d4ff&area=true&hide_border=true" />
 </div>
 
 ---
