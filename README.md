@@ -54,7 +54,7 @@ Já fui instrutor no SENAI-SP por 3 anos, construí desde MVPs até sistemas de 
 ### **DevOps, Cloud & Automação**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,aws,azure,git,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,aws,azure,gcp,gitlab,grafana,rabbitmq&theme=dark" />
 </div>
 
 ### **Dados & Machine Learning**
@@ -66,7 +66,7 @@ Já fui instrutor no SENAI-SP por 3 anos, construí desde MVPs até sistemas de 
 ### **Ferramentas & Produtividade**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,vim,postman,figma&theme=dark" />
 </div>
 
 ---
