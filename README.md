@@ -1,4 +1,4 @@
-# Felipe Santos
+# Felipe Silva Santos
 
 **Engenheiro de Software · Mentor Educacional em Desenvolvimento de Sistemas**
 Valinhos, São Paulo, Brasil · 18 anos de experiência em desenvolvimento de sistemas
@@ -87,7 +87,7 @@ Estou aberto a conversas sobre engenharia de software, educação tecnológica e
 
 - **LinkedIn** · [linkedin.com/in/92felipesantos](https://linkedin.com/in/92felipesantos)
 - **E-mail** · [dev.felipesantos@gmail.com](mailto:dev.felipesantos@gmail.com)
-- **Site** · [fps92.dev](https://fps92.dev) — projetos e estudos de caso _(em breve)_
+- **Site** · [fps92.dev](https://fps92.dev) — projetos e estudos de caso
 
 ---
 
