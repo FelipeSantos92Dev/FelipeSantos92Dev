@@ -15,15 +15,11 @@ Soluções fullstack desde o levantamento de requisitos à entrega em produção
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>Desenvolvedor Fullstack — Paipe</b><br>
-      Desenvolvimento fullstack e atuação como referência técnica em diversos projetos da empresa.
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>Fundador e Diretor Técnico — FSDEV Softwares</b><br>
       Projetos fullstack ponta a ponta: prospecção, levantamento de requisitos, arquitetura, gestão de equipe e entrega.
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>Mentor Educacional — SENAI-SC</b><br>
       Mentoria em desenvolvimento mobile e condução da trilha de Projetos do curso técnico em Desenvolvimento de Sistemas — do levantamento de requisitos à entrega.
     </td>
